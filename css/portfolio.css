@@ -288,7 +288,7 @@ header nav .main-nav > li > a:hover::before {
   transform: skewy(-6deg);
 }
 .landing .container {
-  min-height: calc(100vh - 73px);
+  min-height: 100vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
